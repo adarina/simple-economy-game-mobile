@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_econmy_game/login_page.dart';
+import 'package:simple_economy_game/login_page.dart';
 
 void main() {
   runApp(const MyApp());

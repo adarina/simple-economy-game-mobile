@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:simple_econmy_game/models/building.dart';
-import 'package:simple_econmy_game/controller/building_provider.dart';
-import 'package:simple_econmy_game/models/resource.dart';
-import 'package:simple_econmy_game/controller/resource_provider.dart';
-import 'package:simple_econmy_game/models/user.dart';
+import 'package:simple_economy_game/models/building.dart';
+import 'package:simple_economy_game/controller/building_provider.dart';
+import 'package:simple_economy_game/models/resource.dart';
+import 'package:simple_economy_game/controller/resource_provider.dart';
+import 'package:simple_economy_game/models/user.dart';
 
 class HomePage extends StatelessWidget {
   final User user;

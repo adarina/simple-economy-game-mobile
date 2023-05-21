@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:simple_econmy_game/home_page.dart';
-import 'package:simple_econmy_game/models/user.dart';
+import 'package:simple_economy_game/home_page.dart';
+import 'package:simple_economy_game/models/user.dart';
 import 'package:http/http.dart' as http;
 
 class LoginPage extends StatefulWidget {

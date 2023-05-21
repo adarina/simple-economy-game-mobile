@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:simple_econmy_game/models/user.dart';
+import 'package:simple_economy_game/models/user.dart';
 import 'package:http/http.dart' as http;
 import '../models/building.dart';
 
